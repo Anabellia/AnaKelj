@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Ana Kelj bolje zvuči
                 </div>
 
                 <div class="links">
